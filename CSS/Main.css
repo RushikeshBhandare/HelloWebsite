@@ -1,0 +1,30 @@
+#HelloTExt {
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 1000%;
+    vertical-align:middle;
+    color: black;
+
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    top: 10%;
+    right: 20%;
+
+    font-family:cursive;
+}
+
+#Container {
+   
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#BODY{
+    background-color: Black ;
+    margin: 0%;
+    padding: 0%;
+    background-image:url(../Images/MainBack.jpg);
+    background-size: 100%;
+}
